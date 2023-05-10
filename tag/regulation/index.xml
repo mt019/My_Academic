@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Regulation | Ivanna</title>
-    <link>https://mt019.github.io/My_Academic/tag/regulation/</link>
-      <atom:link href="https://mt019.github.io/My_Academic/tag/regulation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mt019.github.io/tag/regulation/</link>
+      <atom:link href="https://mt019.github.io/tag/regulation/index.xml" rel="self" type="application/rss+xml" />
     <description>Regulation</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mt019.github.io/My_Academic/media/icon_hu912f157c60748de17dedc9dc3182a3bb_188546_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mt019.github.io/media/icon_hu912f157c60748de17dedc9dc3182a3bb_188546_512x512_fill_lanczos_center_3.png</url>
       <title>Regulation</title>
-      <link>https://mt019.github.io/My_Academic/tag/regulation/</link>
+      <link>https://mt019.github.io/tag/regulation/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://mt019.github.io/My_Academic/talk/example-talk/</link>
+      <link>https://mt019.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://mt019.github.io/My_Academic/talk/example-talk/</guid>
+      <guid>https://mt019.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://mt019.github.io/My_Academic/post/getting-started/</link>
+      <link>https://mt019.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://mt019.github.io/My_Academic/post/getting-started/</guid>
+      <guid>https://mt019.github.io/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;

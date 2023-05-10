@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Ivanna</title>
-    <link>https://mt019.github.io/My_Academic/tags/</link>
-      <atom:link href="https://mt019.github.io/My_Academic/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mt019.github.io/tags/</link>
+      <atom:link href="https://mt019.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mt019.github.io/My_Academic/media/icon_hu912f157c60748de17dedc9dc3182a3bb_188546_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mt019.github.io/media/icon_hu912f157c60748de17dedc9dc3182a3bb_188546_512x512_fill_lanczos_center_3.png</url>
       <title>Tags</title>
-      <link>https://mt019.github.io/My_Academic/tags/</link>
+      <link>https://mt019.github.io/tags/</link>
     </image>
     
   </channel>

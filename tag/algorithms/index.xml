@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Algorithms | Ivanna</title>
-    <link>https://mt019.github.io/My_Academic/tag/algorithms/</link>
-      <atom:link href="https://mt019.github.io/My_Academic/tag/algorithms/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mt019.github.io/tag/algorithms/</link>
+      <atom:link href="https://mt019.github.io/tag/algorithms/index.xml" rel="self" type="application/rss+xml" />
     <description>Algorithms</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mt019.github.io/My_Academic/media/icon_hu912f157c60748de17dedc9dc3182a3bb_188546_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mt019.github.io/media/icon_hu912f157c60748de17dedc9dc3182a3bb_188546_512x512_fill_lanczos_center_3.png</url>
       <title>Algorithms</title>
-      <link>https://mt019.github.io/My_Academic/tag/algorithms/</link>
+      <link>https://mt019.github.io/tag/algorithms/</link>
     </image>
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://mt019.github.io/My_Academic/publication/preprint/</link>
+      <link>https://mt019.github.io/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://mt019.github.io/My_Academic/publication/preprint/</guid>
+      <guid>https://mt019.github.io/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
