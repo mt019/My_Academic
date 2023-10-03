@@ -10,6 +10,6 @@ date: "2023-06-30T00:00:00Z"
 external_link: https://mt019.github.io/1112_Tax_Law_Seminar/
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: 稅捐法專題研究
   focal_point: Smart
 ---
