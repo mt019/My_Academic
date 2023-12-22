@@ -3,6 +3,7 @@ title: 稅捐法專題研究
 summary: 111-2 學期《稅捐法專題研究》課堂筆記。采用R的bookdown製作，輸出格式為bookdown::gitbook。
 tags:
   - Tax
+  - Law
   - 111-2
 date: "2023-06-30T00:00:00Z"
 

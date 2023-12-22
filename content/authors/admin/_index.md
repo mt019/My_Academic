@@ -22,25 +22,25 @@ organizations:
     url: http://www.law.ntu.edu.tw/#gsc.tab=0
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include tax law, environmental regulation, statistical analysis, and interdisciplinary applications.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
   - Tax Law
+  # - Computational Linguistics
+  # - Information Retrieval
   - Environmental Regulations
   - Stochastic Process
   - Optimization Algorithm
+  - Artificial Intelligence
   # - Seal Carving
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence (My Dream)
-      institution: Stanford University
-      # year: 2012
+    # - course: PhD in Artificial Intelligence (My Dream)
+    #   institution: Stanford University
+    #   # year: 2012
     - course: LLM in Tax Law (on it)
       institution: National Taiwan University
       # year: 2012

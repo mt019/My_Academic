@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Statistics is the grammar of Science.
+      title:         Statistics is the grammar of Science.      Law is the architecture of Society.
       # image:
       #   filename: purple.png
       # cta:
@@ -46,15 +46,15 @@ sections:
         #   icon: r-project
         #   icon_pack: fab
         - name: Law
-          description: 60%
+          # description: 60%
           icon: scale-balanced
           icon_pack: fas         
         - name: Statistics
-          description: 60%
+          # description: 60%
           icon: chart-line
           icon_pack: fas
         - name: Photography
-          description: 10%
+          # description: 10%
           icon: camera-retro
           icon_pack: fas
 
@@ -76,7 +76,7 @@ sections:
         - name: All
           tag: '*'
         - name: Law
-          tag: Tax Law
+          tag:  Law
         - name: Other
           tag: Air Pollution
             
@@ -87,6 +87,42 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: true
+
+
+
+
+
+  - block: portfolio
+    id: essays
+    content:
+      title: Coursework Essays
+      filters:
+        folders:
+          - Essay
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      default_button_index: 0
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
+      # buttons:
+      #   - name: All
+      #     tag: '*'
+      #   - name: Law
+      #     tag:  Law
+      #   - name: Other
+      #     tag: Air Pollution
+            
+
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: true
+
+
 
 
   # - block: collection
@@ -241,14 +277,16 @@ sections:
 
 
 
-  # - block: markdown
-  #   content:
-  #     title: Gallery
-  #     subtitle: ''
-  #     text: |-
-  #       {{< gallery album="demo" >}}
-  #   design:
-  #     columns: '1'
+  - block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="seal" >}}
+
+        {{< gallery album="landscape" >}}
+    design:
+      columns: '1'
   # - block: collection
   #   id: featured
   #   content:
@@ -285,11 +323,15 @@ sections:
   #   design:
   #     columns: '2'
   #     view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+
+
+  # - block: tag_cloud
+  #   content:
+  #     title: Popular Topics
+  #   design:
+  #     columns: '2'
+  
+  
   # - block: contact
   #   id: contact
   #   content:
@@ -337,4 +379,6 @@ sections:
   #     #     captcha: false
   #   design:
   #     columns: '2'
+
+  
 ---
